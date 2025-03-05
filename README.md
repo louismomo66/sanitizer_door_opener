@@ -11,7 +11,8 @@ Door Access Control:
 If sanitization is completed, a second ultrasonic sensor detects the user, and the door unlocks.
 If sanitization is skipped, the door remains locked.
 Exit Mechanism: After a set time, the door automatically closes to maintain security.
-Features
+
+### Features
 ✅ Contactless, automatic operation to minimize germ transmission.
 ✅ Ultrasonic sensors for hand detection and door activation.
 ✅ Servo motor-controlled door mechanism for smooth, reliable access.
